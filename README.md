@@ -7,6 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Email: abdessadekhm@gmail.com
+</p>
+<p align="left">
+  LinkedIn: <a href="https://www.linkedin.com/in/abdessadek-hmiddouch-9a2287274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwEt3%2FnuvRaWyWrIRHF5cPA%3D%3D">Abdessadek Hmiddouch</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
