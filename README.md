@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdessadek HMIDDOUCH</h1>
-<h3 align="center">2nd Year Computer Science Engineering Student</h3>
+<h3 align="center">3nd Year Computer Science Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdessadekhm&label=Profile%20views&color=0e75b6&style=flat" alt="abdessadekhm" /> </p>
 
