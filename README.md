@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Email: abdessadekhm@gmail.com
+  Email: hmiddouch.abdessadek@gmail.com
 </p>
 <p align="left">
   LinkedIn: <a href="https://www.linkedin.com/in/hmiddouch-abdessadek">Abdessadek Hmiddouch</a>
